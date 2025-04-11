@@ -25,7 +25,7 @@ Welcome to **StartPlaying: Tic-Tac-Toe** – a fun and interactive web-based gam
 ## 📸 Screenshots
 
 ### 🏁 Game Board  
-![Tic Tac Toe Screenshot](screenshots/tic_tac_toe_game.png)
+![Tic Tac Toe Screenshot](demo.png)
 
 ---
 
